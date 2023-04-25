@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest Blues on Kid&#39;s Bible Clubs</title>
-    <link>/blog/</link>
+    <link>/test/blog/</link>
     <description>Recent content in Latest Blues on Kid&#39;s Bible Clubs</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2023 Kids&#39; Bible Clubs</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="/test/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/blog/post-1/</link>
+      <link>/test/blog/post-1/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-1/</guid>
+      <guid>/test/blog/post-1/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/blog/post-4/</link>
+      <link>/test/blog/post-4/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-4/</guid>
+      <guid>/test/blog/post-4/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/blog/post-5/</link>
+      <link>/test/blog/post-5/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-5/</guid>
+      <guid>/test/blog/post-5/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/blog/post-6/</link>
+      <link>/test/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-6/</guid>
+      <guid>/test/blog/post-6/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Pump-up the team morale and celebrate the excellence</title>
-      <link>/blog/post-2/</link>
+      <link>/test/blog/post-2/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-2/</guid>
+      <guid>/test/blog/post-2/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>screens with built in Present and Dismiss animations.</title>
-      <link>/blog/post-3/</link>
+      <link>/test/blog/post-3/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/blog/post-3/</guid>
+      <guid>/test/blog/post-3/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     

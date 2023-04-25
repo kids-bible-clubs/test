@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bigspring Hugo</title>
-    <link>/es/</link>
+    <link>/test/es/</link>
     <description>Recent content on Bigspring Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="/test/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/es/blog/post-4/</link>
+      <link>/test/es/blog/post-4/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-4/</guid>
+      <guid>/test/es/blog/post-4/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/es/blog/post-5/</link>
+      <link>/test/es/blog/post-5/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-5/</guid>
+      <guid>/test/es/blog/post-5/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>/es/blog/post-6/</link>
+      <link>/test/es/blog/post-6/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-6/</guid>
+      <guid>/test/es/blog/post-6/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>Dies ist eine deutsche Testseite</title>
-      <link>/es/blog/post-1/</link>
+      <link>/test/es/blog/post-1/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-1/</guid>
+      <guid>/test/es/blog/post-1/</guid>
       <description>Exemplarische Überschrift Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen.</description>
     </item>
     
     <item>
       <title>Pump-up the team morale and celebrate the excellence</title>
-      <link>/es/blog/post-2/</link>
+      <link>/test/es/blog/post-2/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-2/</guid>
+      <guid>/test/es/blog/post-2/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>screens with built in Present and Dismiss animations.</title>
-      <link>/es/blog/post-3/</link>
+      <link>/test/es/blog/post-3/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>/es/blog/post-3/</guid>
+      <guid>/test/es/blog/post-3/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>/es/about/</link>
+      <link>/test/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/es/about/</guid>
+      <guid>/test/es/about/</guid>
       <description>Our Vision The vision of Kid’s Bible Clubs is to bring glory to God through fruitful outreach ministries to un-churched children by the united efforts of God’s redeemed people.</description>
     </item>
     

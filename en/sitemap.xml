@@ -2,232 +2,232 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/newsletters/2019/</loc>
+    <loc>/test/newsletters/2019/</loc>
   </url><url>
-    <loc>/newsletters/2018/</loc>
+    <loc>/test/newsletters/2018/</loc>
   </url><url>
-    <loc>/newsletters/2017/</loc>
+    <loc>/test/newsletters/2017/</loc>
   </url><url>
-    <loc>/newsletters/2016/</loc>
+    <loc>/test/newsletters/2016/</loc>
   </url><url>
-    <loc>/newsletters/2015/</loc>
+    <loc>/test/newsletters/2015/</loc>
   </url><url>
-    <loc>/newsletters/2014/</loc>
+    <loc>/test/newsletters/2014/</loc>
   </url><url>
-    <loc>/newsletters/2013/</loc>
+    <loc>/test/newsletters/2013/</loc>
   </url><url>
-    <loc>/newsletters/2012/</loc>
+    <loc>/test/newsletters/2012/</loc>
   </url><url>
-    <loc>/blog/post-1/</loc>
+    <loc>/test/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-1/"
+                href="/test/es/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-1/"
+                href="/test/blog/post-1/"
                 />
   </url><url>
-    <loc>/blog/post-4/</loc>
+    <loc>/test/blog/post-4/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-4/"
+                href="/test/es/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-4/"
+                href="/test/blog/post-4/"
                 />
   </url><url>
-    <loc>/blog/post-5/</loc>
+    <loc>/test/blog/post-5/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-5/"
+                href="/test/es/blog/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-5/"
+                href="/test/blog/post-5/"
                 />
   </url><url>
-    <loc>/blog/post-6/</loc>
+    <loc>/test/blog/post-6/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-6/"
+                href="/test/es/blog/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-6/"
+                href="/test/blog/post-6/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>/test/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="/test/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/test/"
                 />
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/test/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/"
+                href="/test/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="/test/blog/"
                 />
   </url><url>
-    <loc>/blog/post-2/</loc>
+    <loc>/test/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-2/"
+                href="/test/es/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-2/"
+                href="/test/blog/post-2/"
                 />
   </url><url>
-    <loc>/blog/post-3/</loc>
+    <loc>/test/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/post-3/"
+                href="/test/es/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post-3/"
+                href="/test/blog/post-3/"
                 />
   </url><url>
-    <loc>/newsletters/2020/</loc>
+    <loc>/test/newsletters/2020/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/test/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/about/"
+                href="/test/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="/test/about/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/test/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="/test/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/test/categories/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>/test/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/contact/"
+                href="/test/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/test/contact/"
                 />
   </url><url>
-    <loc>/events/</loc>
+    <loc>/test/events/</loc>
   </url><url>
-    <loc>/faq/</loc>
+    <loc>/test/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/faq/"
+                href="/test/es/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="/test/faq/"
                 />
   </url><url>
-    <loc>/happy-birthday-jesus/</loc>
+    <loc>/test/happy-birthday-jesus/</loc>
   </url><url>
-    <loc>/newsletters/</loc>
+    <loc>/test/newsletters/</loc>
   </url><url>
-    <loc>/pricing/</loc>
+    <loc>/test/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/pricing/"
+                href="/test/es/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/pricing/"
+                href="/test/pricing/"
                 />
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>/test/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/privacy-policy/"
+                href="/test/es/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/privacy-policy/"
+                href="/test/privacy-policy/"
                 />
   </url><url>
-    <loc>/summer-camp/</loc>
+    <loc>/test/summer-camp/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/test/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="/test/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/test/tags/"
                 />
   </url><url>
-    <loc>/terms-conditions/</loc>
+    <loc>/test/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/terms-conditions/"
+                href="/test/es/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/terms-conditions/"
+                href="/test/terms-conditions/"
                 />
   </url><url>
-    <loc>/volunteer/</loc>
+    <loc>/test/volunteer/</loc>
   </url>
 </urlset>
