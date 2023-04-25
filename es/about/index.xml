@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Bigspring Hugo</title>
+    <link>http://demo.gethugothemes.com/bigspring-light/examplesite/es/about/</link>
+    <description>Recent content in Abouts on Bigspring Hugo</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://demo.gethugothemes.com/bigspring-light/examplesite/es/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>http://demo.gethugothemes.com/bigspring-light/examplesite/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/bigspring-light/examplesite/es/about/</guid>
+      <description>Our Vision The vision of Kid’s Bible Clubs is to bring glory to God through fruitful outreach ministries to un-churched children by the united efforts of God’s redeemed people.</description>
+    </item>
+    
+  </channel>
+</rss>
